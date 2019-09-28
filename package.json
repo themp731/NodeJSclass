@@ -1,0 +1,20 @@
+{
+  "name": "nodejs_class",
+  "version": "1.0.0",
+  "description": "This is from the LinkedIn learning NodeJS class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/themp731/NodeJSclass.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/themp731/NodeJSclass/issues"
+  },
+  "homepage": "https://github.com/themp731/NodeJSclass#readme"
+}
